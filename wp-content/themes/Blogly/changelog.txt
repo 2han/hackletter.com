@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Changelog Legend:
 ----
 
@@ -10,4 +11,18 @@ Changelog Legend:
 
 
 (26/11/2013)
+=======
+Changelog Legend:
+----
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+
+(26/11/2013)
+>>>>>>> 0cd45cbd976a218f9bff14fec45f6f4b8b4b021c
 Initial Release

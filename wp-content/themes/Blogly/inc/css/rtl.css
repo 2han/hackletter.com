@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 Theme Name: themefurnace
 
@@ -14,4 +15,22 @@ body {
 	direction: rtl;
 	unicode-bidi: embed;
 }
+=======
+/*
+Theme Name: themefurnace
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+/*
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+>>>>>>> 0cd45cbd976a218f9bff14fec45f6f4b8b4b021c
 */

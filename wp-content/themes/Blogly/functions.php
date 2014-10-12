@@ -108,6 +108,7 @@ require get_template_directory() . '/inc/extras.php';
 require get_template_directory() . '/inc/customizer.php';
 require get_template_directory() . '/inc/jetpack.php';
 require get_template_directory() . '/inc/widgets.php';
+<<<<<<< HEAD
 require get_template_directory() . '/inc/themesetup.php';
 
 
@@ -129,3 +130,6 @@ function new_get_search_form( $form ) {
 
 // eyecatch
 set_post_thumbnail_size(200, 200, true);
+=======
+require get_template_directory() . '/inc/themesetup.php';
+>>>>>>> 0cd45cbd976a218f9bff14fec45f6f4b8b4b021c
