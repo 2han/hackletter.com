@@ -32,16 +32,15 @@
 </div>
 
 <div class="sidebarwidget about">
-<h3 class="sidebartitle">About Us</h3>
 <ul>
+	<li>
+		<a href="">About Us</a>
+	</li>
 	<li>
 		<a href="">Our supporter</a>
 	</li>
 	<li>
 		<a href="">シリコンバレーに挑戦する</a>
-	</li>
-	<li>
-		<a href="">Hack Letterを応援する</a>
 	</li>
 </ul>
 </div>
