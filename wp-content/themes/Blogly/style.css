@@ -792,7 +792,7 @@ img {
 	content: '#';
 }
 
-/*AboutUsMenu*/
+/*sidebarMenu*/
 .sidebarwidget about h3 li a{
 	text-align: center;
 }
@@ -809,4 +809,66 @@ img {
 }
 .social-nav ul li:hover{
 	background-color: white;
+}
+/*AboutUsPage*/
+.contentsAbout{
+	width: 870px;
+	background: white;
+	border: solid 1px black;
+}
+.marginAbout{
+	padding-top: 10px;
+	margin-bottom: 10px;
+	color: black;
+	font-size: 25px;
+}
+.textAbout{
+	color: black;
+}
+.imgAreaAbout{
+	width: 800px;
+	margin-left: 20px 0px;
+}
+.imgBoxAbout{
+	width: 120px;
+}
+/*OurSuppoterPage*/
+.contentsChallenge{
+	width: 870px;
+	background: white;
+	border: solid 1px black;
+}
+/*.textChallenge{
+	width: 800px;
+	background: gray;
+}*/
+.grayImgBox01{
+	margin-bottom: 15px;
+	margin-right: 10px;
+	background: gray;
+}
+
+.grayImgBox02{
+	margin-bottom: 15px;
+	background: gray;
+}
+
+.grayImgBox03{
+	margin-bottom: 15px;
+	background: gray;
+}
+
+.grayImgBox04{
+	margin-bottom: 15px;
+	background: gray;
+}
+
+.imgAreaAbout{
+	display:inline;
+}
+.textNameAbout{
+	color: red;
+}
+.textPositionAbout{
+	color: black;
 }
