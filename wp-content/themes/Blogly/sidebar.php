@@ -34,10 +34,10 @@
 <div class="sidebarwidget about">
 <ul>
 	<li>
-		<a href="">About Us</a>
+		<a href="http://localhost:8888/wordpress/?page_id=55">About Us</a>
 	</li>
 	<li>
-		<a href="">Our supporter</a>
+		<a href="http://localhost:8888/wordpress/?page_id=82">Our supporter</a>
 	</li>
 	<li>
 		<a href="">シリコンバレーに挑戦する</a>

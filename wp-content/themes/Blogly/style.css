@@ -810,6 +810,8 @@ img {
 .social-nav ul li:hover{
 	background-color: white;
 }
+
+
 /*AboutUsPage*/
 .contentsAbout{
 	width: 870px;
@@ -828,20 +830,38 @@ img {
 .imgAreaAbout{
 	width: 800px;
 	margin-left: 20px 0px;
+	display:inline-table;
 }
 .imgBoxAbout{
 	width: 120px;
 }
-/*OurSuppoterPage*/
+
+.textNameAbout{
+	color: red;
+}
+.textPositionAbout{
+	color: black;
+}
+
+
+/*OurSuppoter*/
+.contentscSup{
+
+}
+
+
+/*シリコンバレーに挑戦する*/
+.textChallenge{
+	width: 600px;
+	background: gray;
+}
 .contentsChallenge{
 	width: 870px;
 	background: white;
 	border: solid 1px black;
 }
-/*.textChallenge{
-	width: 800px;
-	background: gray;
-}*/
+
+
 .grayImgBox01{
 	margin-bottom: 15px;
 	margin-right: 10px;
@@ -861,14 +881,4 @@ img {
 .grayImgBox04{
 	margin-bottom: 15px;
 	background: gray;
-}
-
-.imgAreaAbout{
-	display:inline;
-}
-.textNameAbout{
-	color: red;
-}
-.textPositionAbout{
-	color: black;
 }

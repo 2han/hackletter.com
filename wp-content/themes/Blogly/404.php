@@ -9,7 +9,7 @@ get_header(); ?>
 
 		<div id="main" class="clearfix" >
 
-				<div class="post">
+				<div class="post-post">
 					<h1 class="page-title"><?php _e( 'Oops! That page can&rsquo;t be found.', 'themefurnace' ); ?></h1>
 
 
@@ -46,6 +46,6 @@ get_header(); ?>
 					<?php the_widget( 'WP_Widget_Tag_Cloud' ); ?>
 
 				</div><!-- .page-content -->
-                </div><!-- .post -->
+                </div><!-- .post-post -->
 
 <?php get_footer(); ?>
